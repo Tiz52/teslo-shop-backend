@@ -12,7 +12,11 @@
 ```
 docker-compose up -d
 ```
-6. Build the project:
+6. Run SEED:
+```
+https://localhost:3005/api/seed
+```
+7. Build the project:
 ```
 yarn start:dev
 ```
